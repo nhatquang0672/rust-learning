@@ -1,4 +1,4 @@
 {
-    "rust-analyzer.linkedProjects": ["hello_cargo/Cargo.toml"]
+    "rust-analyzer.linkedProjects": ["rust-by-examples/Cargo.toml"]
 }
   
